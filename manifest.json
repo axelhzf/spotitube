@@ -1,0 +1,15 @@
+{
+    "BundleType": "Application",
+    "AppIcon": {
+        "36x18": "images/icon.png"
+    },
+    "AppName": {
+        "en": "spotitube"
+    },
+    "SupportedLanguages": [
+        "en"
+    ],
+	"RequiredPermissions": [
+        "https://www.googleapis.com"
+    ]
+}
